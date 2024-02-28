@@ -1,18 +1,18 @@
 [
   {
     "name": "chat",
-    "src": "https://dlsignite1web.dlas1.ucloud.int/img/system-icons/chat.svg"
-    },
+    "src": "https://raw.githubusercontent.com/MichaelScottBurke/icons/main/chat.svg"
+  },
   {
     "name": "history",
-    "src": "https://dlsignite1web.dlas1.ucloud.int/img/system-icons/history.svg" 
+    "src": "https://raw.githubusercontent.com/MichaelScottBurke/icons/main/history.svg" 
   },
   {
     "name": "newsfeed",
-    "src": "https://dlsignite1web.dlas1.ucloud.int/img/system-icons/newsfeed.svg" 
+    "src": "https://raw.githubusercontent.com/MichaelScottBurke/icons/main/newsfeed.svg" 
   },
   {
     "name": "search",
-    "src": "https://dlsignite1web.dlas1.ucloud.int/img/system-icons/search.svg" 
+    "src": "https://raw.githubusercontent.com/MichaelScottBurke/icons/main/search.svg" 
   }
 ]
